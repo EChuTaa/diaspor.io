@@ -1,4 +1,4 @@
-#diaspor.io
+#[diaspor.io](http://diaspor.io/)
 A web app designed to make mundane and routine social media tasks automated
 
 
