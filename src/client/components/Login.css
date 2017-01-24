@@ -1,0 +1,33 @@
+.login {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+
+  padding: 5px;
+}
+
+/*.login .form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}*/
+
+.login p {
+  display: inline-block;
+}
+
+.login input {
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+}
+.login button {
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+}
